@@ -8,6 +8,7 @@
 	 * @param {object} model The model instance
 	 * @param {object} view The view instance
 	 */
+	 
 	function Controller(model, view) {
 		var self = this;
 		self.model = model;
