@@ -60,6 +60,8 @@
 			this.storage.find(query, callback);
 		}
 	};
+	
+	
 
 	/**
 	 * Updates a model by giving it an ID, data to update, and a callback to fire when
